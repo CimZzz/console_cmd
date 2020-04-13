@@ -17,6 +17,8 @@ dependencies:
 
 ### ANSIPrinter
 
+![demo1](images/demo1.gif)
+
 ```dart
 class ANSIPrinter {
     /// Output RGB Color text
@@ -39,8 +41,10 @@ class ANSIPrinter {
 
 ### ANSICursor
 
-```dart
 
+![demo2](images/demo2.gif)
+
+```dart
 class ANSICursor {
     /// Move cursor up # lines
     /// - [lineCount] : line count
@@ -91,6 +95,8 @@ class ANSICursor {
 ---
 
 ### ANSIErase
+
+![demo3](images/demo3.gif)
 
 ```dart
 
