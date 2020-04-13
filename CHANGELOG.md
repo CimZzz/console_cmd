@@ -5,4 +5,4 @@
 
 ## 1.0.1
 
-- Add `ANSIPrinter`、`ANSICursor`、`ANSIinManager`Erase`、`Std
+- Add `ANSIPrinter`、`ANSICursor`、`ANSIErase`、`StdinManager`
