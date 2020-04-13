@@ -9,3 +9,7 @@
 ## 1.0.2
 
 - Add demos, and format code
+
+## 1.0.2
+
+- Add description

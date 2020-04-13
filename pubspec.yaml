@@ -1,6 +1,6 @@
 name: console_cmd
-description: /Users/cimzzz/Documents/IDEAProjects/console_cmd
-version: 1.0.2
+description: A library include i/o tools to build cmd application efficiently
+version: 1.0.3
 homepage: https://github.com/CimZzz/console_cmd
 
 environment:
