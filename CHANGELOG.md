@@ -2,7 +2,10 @@
 
 - First Version !
 
-
 ## 1.0.1
 
 - Add `ANSIPrinter`、`ANSICursor`、`ANSIErase`、`StdinManager`
+
+## 1.0.2
+
+- Add demos, and format code
