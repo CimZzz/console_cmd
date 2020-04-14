@@ -17,3 +17,7 @@
 ## 1.0.4
 
 - Allow `ANSIPrinter` print when not support Ansi Escapes
+
+## 1.0.5
+
+- Allow `ANSIPrinter` print when not support Ansi Escapes

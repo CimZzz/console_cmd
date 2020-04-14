@@ -17,7 +17,7 @@ class ANSIPrinter {
 			return;
 		}
 		if(!stdout.supportsAnsiEscapes) {
-			print('', breakLine: breakLine);
+			print(text, breakLine: breakLine);
 			return;
 		}
 		var prefix = '';
