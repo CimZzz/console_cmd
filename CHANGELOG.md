@@ -13,3 +13,7 @@
 ## 1.0.3
 
 - Add description
+
+## 1.0.4
+
+- Allow `ANSIPrinter` print when not support Ansi Escapes

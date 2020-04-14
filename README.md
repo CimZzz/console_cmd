@@ -6,13 +6,13 @@ about line-move, color text and clear method
 
 ## Usage
 
-Latest version : 1.0.3
+Latest version : 1.0.4
 
 add in pubspec.yaml
 
 ```yaml
 dependencies:
-  console_cmd: ^1.0.3
+  console_cmd: ^1.0.4
 ```
 
 ### ANSIPrinter

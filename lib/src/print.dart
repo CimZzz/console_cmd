@@ -12,7 +12,11 @@ class ANSIPrinter {
 	void printRGB(String text,
 		{bool breakLine = true, int fColor, double fGray, int bColor, double bGray}) {
 		assert(breakLine != null);
-		if (text == '' || text == null || !stdout.supportsAnsiEscapes) {
+		if (text == '' || text == null) {
+			print('', breakLine: breakLine);
+			return;
+		}
+		if(!stdout.supportsAnsiEscapes) {
 			print('', breakLine: breakLine);
 			return;
 		}
